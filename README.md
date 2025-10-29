@@ -9,3 +9,7 @@ Feel free to check out my repositories and feel free to reach out!<br/>
 
 
 ![kubastra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kubastra&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
+## 🚀 My Projects
+- [NoteWebApp](https://github.com/kubastra/NoteWebApp) — A simple web app for creating and managing notes.  

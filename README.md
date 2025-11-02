@@ -8,7 +8,7 @@ I'm an aspiring software engineer currently in my second year of Applied Compute
 Feel free to check out my repositories and feel free to reach out!<br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubastra&stats_format=percentages)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubastra)](https://github.com/kubastra/github-readme-stats)
 
 
 ## 🚀 My Projects

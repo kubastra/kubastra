@@ -7,7 +7,7 @@ I'm an aspiring software engineer currently in my third year of Applied Computer
 
 Feel free to check out my repositories and feel free to reach out!<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubastra)](https://github.com/anuraghazra/github-readme-stats)
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kubastra=compact&theme=radical&hide=swift,csharp'/>
 
 
 

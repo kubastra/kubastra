@@ -10,6 +10,7 @@ Feel free to check out my repositories and feel free to reach out!<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubastra)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
 ## 🚀 My Projects
 - [NoteWebApp](https://github.com/kubastra/NoteWebApp) — A simple web app for creating and managing notes.  
 - [BooksApiWithoutFrontend](https://github.com/kubastra/books-api-without-frontend) - A simple web app for adding and displaying books using for example JSON.

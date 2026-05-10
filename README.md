@@ -10,6 +10,4 @@ Feel free to check out my repositories and feel free to reach out!<br/>
 
 
 ## 🚀 My Projects
-- [NoteWebApp](https://github.com/kubastra/NoteWebApp) — A simple web app for creating and managing notes.  
-- [BooksApiWithoutFrontend](https://github.com/kubastra/books-api-without-frontend) - A simple web app for adding and displaying books using for example JSON.
-- [Algorithms and data structures](https://github.com/kubastra/Algorithms-and-data-structures-Java) - Here i practice everyday solving problems with Java!
+- [JobOffersWebApp]([https://github.com/kubastra/NoteWebApp](https://github.com/kubastra/JobOffersWebApp)) — (Java + Spring Boot + Postgresql + React) Web app for creating and managing job offers

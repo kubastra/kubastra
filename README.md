@@ -10,4 +10,4 @@ Feel free to check out my repositories and feel free to reach out!<br/>
 
 
 ## 🚀 My Projects
-- [JobOffersWebApp]([https://github.com/kubastra/NoteWebApp](https://github.com/kubastra/JobOffersWebApp)) — (Java + Spring Boot + Postgresql + React) Web app for creating and managing job offers
+- [JobOffersWebApp](https://github.com/kubastra/JobOffersWebApp) — (Java + Spring Boot + Postgresql + React) Web app for creating and managing job offers
